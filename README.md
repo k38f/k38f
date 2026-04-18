@@ -11,5 +11,4 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k38f&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k38f&theme=2077&utcOffset=3" />
 </p>
