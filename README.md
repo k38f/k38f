@@ -15,6 +15,9 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k38f&theme=2077" />
+</p>
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
