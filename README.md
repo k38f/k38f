@@ -19,6 +19,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=k38f&style=for-the-badge&color=E64B8C" />
-</p>
