@@ -15,4 +15,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k38f&theme=2077" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k38f&theme=react-dark&hide_border=true&bg_color=151C2C" />
 </p>
