@@ -18,9 +18,10 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k38f&theme=2077" />
-  <img src="https://komarev.com/ghpvc/?username=k38f&style=for-the-badge&color=E64B8C" />
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </p>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=k38f&style=for-the-badge&color=E64B8C" />
+</p>
 
 
