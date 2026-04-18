@@ -1,4 +1,4 @@
-<h2 align="center">📊 Статистика</h2>
+<h2 align="center">📊 Statistics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k38f&theme=2077" />
