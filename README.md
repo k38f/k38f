@@ -1,1 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=k38f&show_icons=true&theme=tokyonight)
