@@ -15,6 +15,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+##
+
+### 🛠 Open Source Contributions
+
+📋 [See all contributions](./CONTRIBUTIONS.md)
+
+##
+
 > [!TIP]
 >
 > ### 🎉 Support Me
@@ -23,6 +31,3 @@
 > **BTC**: `bc1qhqrgz3u27285gn4k2d8ran4dn9l3t3a5gf46n0`  
 > **ETH**: `0x112868C2179D59FF6F3Df73CC5A9f2f8f694486b`  
 > **Tron**: `TJzJ3ym9CkLG4AaUUt1fh3aT6BXp8CBQcZ` 
-
-
-##
