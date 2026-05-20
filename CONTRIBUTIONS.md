@@ -5,3 +5,6 @@
 
 ## Flowseal/zapret-discord-youtube
 - [PR #12152](https://github.com/Flowseal/zapret-discord-youtube/pull/12152)
+
+## peazip/PeaZip
+- [Bug report #915](https://sourceforge.net/p/peazip/tickets/915/) 
